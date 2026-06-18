@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Atharvab022/LeetProblems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvab022/LeetProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atharvab022/LeetProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Atharvab022/LeetProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Atharvab022/LeetProblems/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Atharvab022/LeetProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Atharvab022/LeetProblems/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Atharvab022/LeetProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
